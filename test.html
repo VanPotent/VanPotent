@@ -5,22 +5,26 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Starbuzz Coffee's Mission</title>
     <style type="text/css">
+        html, body {
+            height: 100%; /* Ensure both elements take full height */
+            margin: 0; /* Remove default margins */
+        }
         body {
             background: linear-gradient(to bottom, #d19c56 0%, #e6c395 100%);
-            margin: 0; /* Remove default margin */
             font-family: sans-serif; /* Font style for the whole body */
         }
-        div {
+        .content {
             text-align: left;
-            margin-left: 20%;
-            margin-right: 20%;
+            margin: 20px; /* Add margin around the content */
             border: 1px dotted gray;
             padding: 10px;
+            background: rgba(255, 255, 255, 0.8); /* Optional: Light background for readability */
+            border-radius: 5px; /* Optional: Rounded corners */
         }
     </style>
 </head>
 <body>
-    <div>
+    <div class="content">
         <h2>What is our mission?</h2>
         <p>To provide all the caffeine that you need to power your life.</p>
         <p>Just drink it.</p>
