@@ -6,20 +6,24 @@
     <title>Starbuzz Coffee's Mission</title>
     <style type="text/css">
         html, body {
-            height: 100%; /* Ensure both elements take full height */
-            margin: 0; /* Remove default margins */
+            height: 100%; /* Full height */
+            margin: 0; /* Remove default margin */
         }
         body {
-            background: linear-gradient(to bottom, #d19c56 0%, #e6c395 100%);
-            font-family: sans-serif; /* Font style for the whole body */
+            background: linear-gradient(to bottom, #d19c56, #e6c395); /* Gradient from top to bottom */
+            font-family: sans-serif; /* Font style */
+            display: flex; /* Use flexbox to center content */
+            justify-content: center; /* Center horizontally */
+            align-items: center; /* Center vertically */
         }
         .content {
-            text-align: left;
-            margin: 20px; /* Add margin around the content */
-            border: 1px dotted gray;
-            padding: 10px;
-            background: rgba(255, 255, 255, 0.8); /* Optional: Light background for readability */
-            border-radius: 5px; /* Optional: Rounded corners */
+            text-align: left; /* Align text to the left */
+            margin: 20px; /* Margin around content */
+            padding: 20px; /* Padding inside content */
+            border: 1px dotted gray; /* Border around content */
+            background: rgba(255, 255, 255, 0.9); /* Optional: white background for readability */
+            border-radius: 5px; /* Optional: rounded corners */
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Optional: slight shadow for depth */
         }
     </style>
 </head>
