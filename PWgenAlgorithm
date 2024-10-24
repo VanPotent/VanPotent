@@ -1,0 +1,49 @@
+temp ← ""
+website ← ""
+password ← ""
+website ← INPUT()
+count ← LENGTH(website)
+
+REPEAT UNTIL(count = 0)
+{
+    letre ← website[count]
+    temp ← JOIN(temp, letre)
+    count ← count - 1
+}
+
+IF(website CONTAINS "a" OR website CONTAINS "z" OR website CONTAINS "g" OR website CONTAINS "v" OR website CONTAINS "u")
+{
+    password ← JOIN(website[ROUND(LENGTH(website) / 2)])
+    DISPLAY("Is this website your favorite?")
+    answer ← INPUT()
+    IF(answer = "yes")
+    {
+        password ← JOIN("cd", password)
+    }
+    ELSE
+    {
+        password ← JOIN("sn", website)
+    }
+    DISPLAY("What is your age?")
+    age ← INPUT()
+    password ← JOIN(temp, JOIN(JOIN(age, 2024), JOIN(password, "e")))
+}
+ELSE
+{
+    password ← JOIN(website[ROUND(LENGTH(website) / 3)])
+    DISPLAY("Is this website your favorite?")
+    answer ← INPUT()
+    IF(answer = "yes")
+    {
+        password ← JOIN("cd", password)
+    }
+    ELSE
+    {
+        password ← JOIN("fd", website)
+    }
+    DISPLAY("What is your age?")
+    age ← INPUT()
+    password ← JOIN(temp, JOIN(JOIN(age, 2024), JOIN(password, "d")))
+}
+
+DISPLAY("Your password is: ", password)
