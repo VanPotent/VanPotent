@@ -1,33 +1,36 @@
-# 👾 Van Potent | Distributed Systems Enthusiast & Advocate for Freedom
+# VanPotent 👽
 
-🌍 **Location**: Algeria  
-🧠 **Focus Areas**: HPC, DLT, and Quantum Algorithms  
+---
 
-## 🛠 Tools & Languages:
-- Rust, Clojure, Haskell  
-- GraphQL, gRPC, Protobuf  
-- Kubernetes, Docker Swarm  
-- Kafka, Cassandra, ZeroMQ  
-- CUDA, OpenCL for GPU acceleration  
-- TensorFlow, JAX  
+## 🔹 About Me
 
-## 💡 What I'm Working On:
-Currently building a decentralized consensus protocol that operates under Byzantine Fault Tolerance (BFT) constraints, optimizing leader election using Raft, Paxos, and a sprinkle of hybrid logical clocks (HLC).  
+I specialize in **enterprise-grade Luau framework engineering** and **UI architecture**, with a focus on **precise library migration** and **maintainable code design**. My scripts have been deployed over **1.2 million times** since November 2024, delivering reliable gameplay modules to the community.
 
-## 🔬 Research Interests:
-- Lambda Calculus and Functional Reactive Programming  
-- Quantum circuit simulation and optimization algorithms for NISQ devices  
-- Scaling microservices architectures using Istio for service mesh optimization  
-- Asynchronous data pipelines and low-latency messaging systems  
+I created and maintain **Ori2Field**, an open-source solution for seamless UI migration between Orion and Rayfield frameworks, with additional libraries under development. I lead a community of **20,000+ developers** focused on scripting standards, knowledge sharing, and continuous innovation.
 
-## 🎓 Background:
-With a strong foundation in mathematics and computer science, my work focuses on designing and scaling fault-tolerant systems and experimenting with novel quantum algorithms to explore potential breakthroughs in cryptography and machine learning.
+---
 
-## 💬 Advocacy:
-Living in a country with limited freedoms has only strengthened my belief in the power of open-source software, decentralized systems, and individual privacy. I support technologies that empower individuals to communicate and collaborate freely, regardless of restrictions imposed by authoritarian regimes.  
+## 🔧 Projects
 
-## 🌱 Always Learning:
-Currently diving deeper into Homomorphic Encryption and Secure Multi-Party Computation (MPC) for privacy-preserving decentralized applications.  
+### 🛠 Ori2Field (`Python`)
+A high-precision tool that converts Orion-based Luau UI code to the Rayfield library while preserving full functionality and callbacks. This open-source utility simplifies framework transitions and accelerates development.
 
-## 🛰 My Vision:
-I'm on a mission to push the boundaries of what's possible in distributed systems and quantum computing. Let's build the future of decentralized computation, a future where information flows freely, and every individual can harness the power of technology without fear.
+### 🎮 EpicHub (`Lua(u)`)
+A collection of community-driven Luau modules and gameplay utilities built for educational use and immersive play. Features include PvP battlegrounds, RNG mechanics, and collaborative obbies—all designed for clean integration.
+
+---
+
+## 📊 Stats
+
+### 🔁 Contribution Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=VanPotent&theme=github)](https://github.com/VanPotent)
+
+### 🗂 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VanPotent&layout=compact&hide_title=true)
+
+---
+
+## 📫 Contact
+
+- GitHub: [VanPotent](https://github.com/VanPotent)
+
