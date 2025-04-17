@@ -16,7 +16,7 @@ I created and maintain **Ori2Field**, an open-source solution for seamless UI mi
 A high-precision tool that converts Orion-based Luau UI code to the Rayfield library while preserving full functionality and callbacks. This open-source utility simplifies framework transitions and accelerates development.
 
 ### 🎮 EpicHub (`Lua(u)`)
-A collection of community-driven Luau modules and gameplay utilities built for educational use and immersive play. Features include PvP battlegrounds, RNG mechanics, and collaborative obbies—all designed for clean integration.
+A collection of community-driven Luau modules and gameplay utilities built for educational use and immersive play. 
 
 ---
 
