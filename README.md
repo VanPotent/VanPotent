@@ -2,7 +2,7 @@
 
 ---
 
-## 🔹 About Me
+## About Me
 
 I specialize in **enterprise-grade Luau framework engineering** and **UI architecture**, with a focus on **precise library migration** and **maintainable code design**. My scripts have been deployed over **2.4 million times** since November 2024, delivering reliable gameplay modules to the community.
 
